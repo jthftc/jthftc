@@ -63,19 +63,6 @@
 <br/>
 <br/>
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [FTC SKYSTONE 2020 Promote Award Video](https://www.youtube.com/watch?v=aM1P5l6_az0)
-- [FTC SKYSTONE Golf Coast League Meet #1 (LAST MATCH)](https://www.youtube.com/watch?v=3ccNU0i_tLE)
-- [FTC SKYSTONE Golf Coast League Meet #1 (MATCH 3)](https://www.youtube.com/watch?v=YMaxwhAJekk)
-- [FTC SKYSTONE Golf Coast League Meet #1 (EARLY MATCH)](https://www.youtube.com/watch?v=Jo-28qeolmA)
-- [FTC ROVER RUCKUS 2018/2019 Promote Award](https://www.youtube.com/watch?v=YX6nvvSENsU)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/channel/UC7lOdu9FJqzLBgwIap4CDhw)
 
 ---
 
